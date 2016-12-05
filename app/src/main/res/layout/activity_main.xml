@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/tan_background"
+    tools:context="com.example.classandtask.MainActivity">
+
+    <TextView
+        android:id="@+id/calendar"
+        style="@style/CategoryStyle"
+        android:background="@color/category_calendar"
+        android:text="@string/category_calendar" />
+
+    <TextView
+        android:id="@+id/create_task"
+        style="@style/CategoryStyle"
+        android:background="@color/category_create_task"
+        android:text="@string/category_create_task" />
+
+    <TextView
+        android:id="@+id/data"
+        style="@style/CategoryStyle"
+        android:background="@color/category_data"
+        android:text="@string/category_data" />
+
+    <TextView
+        android:id="@+id/logger"
+        style="@style/CategoryStyle"
+        android:background="@color/category_logger"
+        android:text="@string/category_logger" />
+
+
+
+
+
+</LinearLayout>

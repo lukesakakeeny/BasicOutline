@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ClassAndTask</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_calendar">Calendar</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_create_task">Create Task</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_data">Data</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_logger">Logger</string>
+</resources>
