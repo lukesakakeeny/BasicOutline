@@ -17,17 +17,20 @@
         </activity>
         <activity
             android:name=".Calendar"
-            android:label="Calendar"/>
+            android:label="Calendar" />
         <activity
             android:name=".CreateTask"
-            android:label="Create Task"/>
+            android:label="Create Task" />
         <activity
             android:name=".Data"
-            android:label="Data"/>
+            android:label="Data" />
         <activity
             android:name=".Logger"
             android:label="Logger">
-
+        </activity>
+        <activity
+            android:name=".CreateClass"
+            android:label="Create Class">
         </activity>
     </application>
 
