@@ -41,7 +41,7 @@ public class CreateTask extends AppCompatActivity {
         Spinner spinner = (Spinner) findViewById(R.id.spinner);
 
         ArrayList<String> classes = new ArrayList<String>();
-
+//
         classes.add(new String("EC327"));
         classes.add(new String("EC450"));
         classes.add(new String("SI482"));
